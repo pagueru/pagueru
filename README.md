@@ -1,21 +1,28 @@
-### Olá!
+![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
-🎯 **Assistente de Programação DB** na **[Newbacon](https://www.newbacon.com/)**, uma empresa Data-driven de CRM.  
-🚀 Comecei minha trajetória como Assistente de BI e, hoje, contribuo com a manutenção de dados e programação de disparos de CRM.
+### Olá, sou Raphael Coelho!
 
-&nbsp;
+#### Assistente de Programação DB na [Newbacon](https://www.newbacon.com/)
 
-💻 **O que eu uso no meu dia a dia:**  
-- Linguagens: `SQL` e `Python`  
-- Ferramentas: `Tableau`, `Microsoft Excel`, `Power BI`
+🚀 Comecei minha trajetória com dados como **Assistente de BI**, desenvolvendo relatórios e visualizações analíticas. Hoje, atuo na manutenção de bancos de dados SQL e na programação de disparos de CRM, contribuindo para soluções orientadas a dados.
+
+
+🛠 **Tecnologias e Ferramentas**  
+- Linguagens: `SQL`, `Python`  
+- Business Intelligence: `Tableau`, `Microsoft Excel`, `Power BI`
+- Bancos de Dados: `SQL Server`, `Postgresql`, `mySQL`, `MongoDB`
+- Cloud: `AWS`, `Gcloud`, `Render`
+- Outros: `Git`, `Docker`
 
 
 🔧 **Meu primeiro projeto no GitHub:**  
 - [py-docstring-manager](https://github.com/pagueru/py-docstring-manager) – Um projeto simples que manipula docstrings de um script Python através de um arquivo YAML.
 
+
 🌱 **Ainda estou começando!**  
 Embora seja novo no GitHub e no mundo de projetos, estou animado para aprender, colaborar e crescer na comunidade.
 
-📫 **Como entrar em contato comigo:**  
+
+📫 **Contatos:**  
 - LinkedIn: [Raphael Coelho](https://www.linkedin.com/in/raphaelhvcoelho/)
 - E-mail: [raphael.phael@gmail.com](mailto:raphael.phael@gmail.com)
