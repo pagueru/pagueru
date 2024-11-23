@@ -22,4 +22,4 @@ Embora seja novo no GitHub e no mundo de projetos, estou animado para aprender, 
 - LinkedIn: [Raphael Coelho](https://www.linkedin.com/in/raphaelhvcoelho/)
 - E-mail: [raphael.phael@gmail.com](mailto:raphael.phael@gmail.com)
 
-![views](https://komarev.com/ghpvc/?username=pagueru&base=12&color=313131&label=views)
+<img align="right" src="https://komarev.com/ghpvc/?username=pagueru&base=12&color=313131&label=views">
