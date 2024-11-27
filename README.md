@@ -11,7 +11,7 @@ Comecei minha trajetória com dados como **Assistente de BI**, desenvolvendo rel
 - Business Intelligence: `Tableau`, `Microsoft Excel`, `Power BI`
 - Bancos de Dados: `SQL Server`, `Postgresql`, `mySQL`, `MongoDB`
 - Cloud: `AWS`, `Gcloud`, `Render`
-- Outros: `Git`, `Docker`
+- Outros: `Git`, `Docker`, `Postman`
 
 #### 🔧 **Meu primeiro projeto no GitHub:**  
 
