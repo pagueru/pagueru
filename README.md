@@ -13,9 +13,10 @@ Comecei minha trajetória com dados como **Assistente de BI**, desenvolvendo rel
 - Cloud: `AWS`, `Gcloud`, `Render`
 - Outros: `Git`, `Docker`, `Postman`
 
-#### 🔧 **Meu primeiro projeto no GitHub:**  
+#### 🔧 **Repostórios**  
 
 - [py-docstring-manager](https://github.com/pagueru/py-docstring-manager) – Um projeto simples que manipula docstrings de um script Python através de um arquivo YAML.
+- [docker-rustdesk](https://github.com/pagueru/docker-rustdesk) – Utiliza Docker Compose para configurar um servidor RustDesk auto-hospedado. Inclui scripts em Python para automatizar a criação de regras de firewall no Windows.
 
 #### 🌱 **Ainda estou começando!**  
 
