@@ -1,4 +1,3 @@
-
 ### Olá, sou Raphael Coelho! 👋
   
 #### Assistente de Programação DB na [Newbacon](https://www.newbacon.com/)
@@ -19,7 +18,11 @@ Atualmente, estudo Python para automação de processos e desenvolvimento de pip
 
 - [py-default-repo](https://github.com/pagueru/py-default-repo) – Estrutura base para projetos Python, com boas práticas de organização e dependências configuráveis.
 
+- [portfolios-business-intelligence-data-analysis](https://github.com/pagueru/portfolios-business-intelligence-data-analysis) – Monorepo com projetos acadêmicos de BI e Data Analysis, organizados em subpastas e seguindo boas práticas de versionamento.
+
 - [py-selenium-scraper](https://github.com/pagueru/py-selenium-scraper) – Automatização de acesso à plataforma Colaborar da Anhanguera para exportar datas de atividades em formato iCalendar (ICS) usando Selenium.
+
+- [py-ai-api-integration](https://github.com/pagueru/py-ai-api-integration) – Cliente Python para integração e testes de APIs de IA, com persistência em SQLite e configuração via YAML.
 
 - [dbt-core-northwind](https://github.com/pagueru/dbt-core-northwind) – Exemplo de projeto DBT utilizando o banco de dados Northwind para demonstrar modelagem de dados e transformações analíticas.
 
