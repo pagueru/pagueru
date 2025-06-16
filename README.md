@@ -32,13 +32,15 @@ Atualmente, estudo Python para automação de processos e desenvolvimento de pip
 
 - [docker-rustdesk](https://github.com/pagueru/docker-rustdesk) – Utiliza Docker Compose para configurar um servidor RustDesk auto-hospedado. Inclui scripts em Python para automatizar a criação de regras de firewall no Windows.
 
-#### 🌱 **Ainda estou começando!**  
+#### 💡 **Também mantenho alguns [Gists no GitHub](https://gist.github.com/pagueru)**
 
+Pequenos scripts, funções e classes reutilizáveis para facilitar tarefas do dia a dia.
+
+#### 🌱 **Ainda estou começando!**
+  
 Embora seja novo no GitHub e no mundo de projetos, estou animado para aprender, colaborar e crescer na comunidade.
 
-#### 📫 **Contato:**  
+#### 📫 **Contato:**
 
 - LinkedIn: [Raphael Coelho](https://www.linkedin.com/in/raphaelhvcoelho/)
 - E-mail: [raphael.phael@gmail.com](mailto:raphael.phael@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=pagueru&base=12&color=313131&label=views" alt="Views Count" align="right">
